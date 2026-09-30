@@ -4,4 +4,4 @@ class SesionVirtual(
     horario: String,
     cupo: Int,
     entrenador: Entrenador
-): Sesion(nombre, horario, cupo, entrenador)
+) : Sesion(nombre, horario, cupo, entrenador)
