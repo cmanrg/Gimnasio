@@ -1,4 +1,2 @@
 
-class Entrenador(val nombre: String, val especialidad: String) {
-
-}
+class Entrenador(val nombre: String, val especialidad: String)
